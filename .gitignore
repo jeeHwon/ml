@@ -1,3 +1,14 @@
 .ipynb_checkpoints
 
 .vscode/settings.json
+study/dataset/__init__.py
+study/dataset/cactus_gray.png
+study/dataset/cactus.png
+study/dataset/mnist.pkl
+study/dataset/mnist.py
+study/dataset/t10k-images-idx3-ubyte.gz
+study/dataset/t10k-labels-idx1-ubyte.gz
+study/dataset/train-images-idx3-ubyte.gz
+study/dataset/train-labels-idx1-ubyte.gz
+study/dataset/__pycache__/__init__.cpython-36.pyc
+study/dataset/__pycache__/mnist.cpython-36.pyc
