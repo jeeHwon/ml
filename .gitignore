@@ -12,3 +12,16 @@ study/dataset/train-images-idx3-ubyte.gz
 study/dataset/train-labels-idx1-ubyte.gz
 study/dataset/__pycache__/__init__.cpython-36.pyc
 study/dataset/__pycache__/mnist.cpython-36.pyc
+study/__pycache__/DD_08_02_gradient2d.cpython-36.pyc
+study/common/__init__.py
+study/common/functions.py
+study/common/gradient.py
+study/common/layers.py
+study/common/multi_layer_net_extend.py
+study/common/multi_layer_net.py
+study/common/optimizer.py
+study/common/trainer.py
+study/common/util.py
+study/common/__pycache__/__init__.cpython-36.pyc
+study/common/__pycache__/functions.cpython-36.pyc
+study/common/__pycache__/gradient.cpython-36.pyc
