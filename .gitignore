@@ -49,3 +49,14 @@ DL_study/dataset/train-labels-idx1-ubyte.gz
 DL_study/dataset/__pycache__/__init__.cpython-36.pyc
 DL_study/dataset/__pycache__/mnist.cpython-36.pyc
 DL_study/dataset/mnist.pkl
+/.idea/.gitignore
+/PycharmProjects/tensorflowProject/.idea/.gitignore
+/.idea/misc.xml
+/PycharmProjects/tensorflowProject/.idea/misc.xml
+/.idea/ml.iml
+/.idea/modules.xml
+/PycharmProjects/tensorflowProject/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/PycharmProjects/tensorflowProject/.idea/inspectionProfiles/profiles_settings.xml
+/PycharmProjects/tensorflowProject/.idea/tensorflowProject.iml
+/.idea/vcs.xml
