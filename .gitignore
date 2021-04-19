@@ -60,3 +60,5 @@ DL_study/dataset/mnist.pkl
 /PycharmProjects/tensorflowProject/.idea/inspectionProfiles/profiles_settings.xml
 /PycharmProjects/tensorflowProject/.idea/tensorflowProject.iml
 /.idea/vcs.xml
+/jupyterProjects/datasets/housing/housing.csv
+/jupyterProjects/datasets/housing/housing.tgz
