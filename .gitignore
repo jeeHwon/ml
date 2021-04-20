@@ -62,3 +62,4 @@ DL_study/dataset/mnist.pkl
 /.idea/vcs.xml
 /jupyterProjects/datasets/housing/housing.csv
 /jupyterProjects/datasets/housing/housing.tgz
+/jupyterProjects/datasets/map/california.png
