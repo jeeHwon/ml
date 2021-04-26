@@ -63,3 +63,9 @@ DL_study/dataset/mnist.pkl
 /jupyterProjects/datasets/housing/housing.csv
 /jupyterProjects/datasets/housing/housing.tgz
 /jupyterProjects/datasets/map/california.png
+/cote03/data/synthea_cdm_csv/concept.csv
+/cote03/data/synthea_cdm_csv/condition_occurrence.csv
+/cote03/data/synthea_cdm_csv/death.csv
+/cote03/data/synthea_cdm_csv/drug_exposure.csv
+/cote03/data/synthea_cdm_csv/person.csv
+/cote03/data/synthea_cdm_csv/visit_occurrence.csv
