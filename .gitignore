@@ -69,3 +69,5 @@ DL_study/dataset/mnist.pkl
 /cote03/data/synthea_cdm_csv/drug_exposure.csv
 /cote03/data/synthea_cdm_csv/person.csv
 /cote03/data/synthea_cdm_csv/visit_occurrence.csv
+/jupyterProjects/images/decision_trees/iris_tree.dot
+/jupyterProjects/images/decision_trees/regression_tree.dot
