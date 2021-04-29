@@ -72,3 +72,10 @@ DL_study/dataset/mnist.pkl
 /jupyterProjects/images/decision_trees/iris_tree.dot
 /jupyterProjects/images/decision_trees/regression_tree.dot
 /jupyterProjects/images/decision_trees/tree_regression_regularization_plot.png
+/jupyterProjects/images/ensembles/boosting_plot.png
+/jupyterProjects/images/ensembles/decision_tree_without_and_with_bagging_plot.png
+/jupyterProjects/images/ensembles/early_stopping_gbrt_plot.png
+/jupyterProjects/images/ensembles/gbrt_learning_rate_plot.png
+/jupyterProjects/images/ensembles/gradient_boosting_plot.png
+/jupyterProjects/images/ensembles/law_of_large_numbers_plot.png
+/jupyterProjects/images/ensembles/mnist_feature_importance_plot.png
