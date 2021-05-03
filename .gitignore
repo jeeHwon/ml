@@ -79,3 +79,9 @@ DL_study/dataset/mnist.pkl
 /jupyterProjects/images/ensembles/gradient_boosting_plot.png
 /jupyterProjects/images/ensembles/law_of_large_numbers_plot.png
 /jupyterProjects/images/ensembles/mnist_feature_importance_plot.png
+/jupyterProjects/images/dim_reduction/dataset_2d_plot.png
+/jupyterProjects/images/dim_reduction/squished_swiss_roll_plot.png
+/jupyterProjects/my_mnist.data
+/jupyterProjects/images/dim_reduction/explained_variance_plot.png
+/jupyterProjects/images/dim_reduction/kernel_pca_plot.png
+/jupyterProjects/images/dim_reduction/preimage_plot.png
